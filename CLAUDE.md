@@ -1,3 +1,77 @@
+About Me / Our Story
+We Don’t Conquer Nature. We Are Allowed to Return.
+
+For over twelve years, I have explored jungles and rainforests across the world.
+From dense tropical forests to remote, unforgiving terrain, I’ve learned one truth that experience alone cannot replace:
+
+Skill helps you move forward. Safety is what brings you home.
+
+In August 2021, that truth came at a devastating cost.
+
+I was deep in the central rainforest of Papua New Guinea with my expedition partner and close friend, James. We were both experienced jungle explorers—but our equipment was not sufficient for the extreme conditions we encountered.
+
+Heavy rain, dropping temperatures, and limited shelter led to a critical situation.
+James developed severe hypothermia.
+
+In the final moments, he gave me the only remaining gear that could keep someone alive.
+
+Because of that choice, I survived.
+James did not.
+
+He remains forever in the rainforest of Papua New Guinea.
+
+That loss changed everything.
+
+I realized something many adventurers learn too late:
+When an expedition ends safely, it’s not because we conquered nature—it’s because nature allowed us to leave.
+
+From that day forward, I could no longer treat outdoor gear as just products.
+In extreme environments, equipment is not a feature list—it is a lifeline.
+
+Why This Brand Exists
+
+This store is built on responsibility, not marketing hype.
+
+Every product I share or sell is selected through real-world jungle experience, tested with one question in mind:
+
+Would I trust this with my life?
+
+My goal is simple:
+To help outdoor enthusiasts return home safely—to their families, their friends, their lives.
+
+Giving Back
+
+To honor James and his family, I have made a permanent commitment:
+
+70% of all product profits are donated to:
+
+Supporting James’ family and children
+
+Environmental protection and conservation efforts
+
+Responsible outdoor education and safety awareness
+
+This is not a campaign.
+It is a promise.
+
+A Final Word
+
+If you choose our equipment, you’re not just buying gear.
+You’re supporting a belief:
+
+That nature deserves respect.
+That preparation matters.
+And that the true success of any adventure is coming home alive.
+
+Thank you for being part of this journey.
+
+—
+
+Founder & Jungle Survival Enthusiast
+12+ Years of Field Experience
+
+
+
 # CLAUDE.md
 
 This file provides guidance to Claude Code (claude.ai/code) when working with code in this repository.
